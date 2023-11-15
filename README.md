@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MikeCz35
+- 👋 Hi, I’m @VMin35
 - 👀 I’m interested in dancing and robot
 - 🌱 I’m currently learning C & C++
 - 💞️ I’m looking to collaborate on ...
